@@ -1,5 +1,6 @@
 {
   "name": "cooool",
+  "author":"Thomas Haile",
   "version": "1.0.0",
   "scripts": {
     "dev": "concurrently \"npm run dev-api\" \"npm run dev-client\"",
